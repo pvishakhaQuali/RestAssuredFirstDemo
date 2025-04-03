@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+
+      <class name="RestLibrary.RestAssuredDemoProject.PostWithHeadOptionMethod"/>
+      <class name="RestLibrary.RestAssuredDemoProject.TestPathAndQueryParam"/>
+      <class name="RestLibrary.RestAssuredDemoProject.TestRestPeekPrintClass"/>
+      <class name="RestLibrary.RestAssuredDemoProject.TestGetMethod"/>
+      <class name="RestLibrary.RestAssuredDemoProject.TestJsonPathJResponse"/>
+      <class name="RestLibrary.RestAssuredDemoProject.HamcrestFirstClass"/>
+      <class name="RestLibrary.RestAssuredDemoProject.CRUD_Basic"/>
+      <class name="RestLibrary.RestAssuredDemoProject.HamrestCollectArray"/>
+      <class name="RestLibrary.RestAssuredDemoProject.HamrestHeaders"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

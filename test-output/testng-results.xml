@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="42" passed="42" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-02T18:44:59 IST" name="Suite" finished-at="2025-04-02T18:45:50 IST" duration-ms="51768">
+    <groups>
+    </groups>
+    <test started-at="2025-04-02T18:44:59 IST" name="Test" finished-at="2025-04-02T18:45:50 IST" duration-ms="51768">
+      <class name="RestLibrary.RestAssuredDemoProject.TestJsonPathJResponse">
+        <test-method signature="testExtractOneToAnother()[pri:0, instance:RestLibrary.RestAssuredDemoProject.TestJsonPathJResponse@2d3379b4]" started-at="2025-04-02T18:45:36 IST" name="testExtractOneToAnother" finished-at="2025-04-02T18:45:38 IST" duration-ms="1975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExtractOneToAnother -->
+        <test-method signature="testForCollectionAcess()[pri:0, instance:RestLibrary.RestAssuredDemoProject.TestJsonPathJResponse@2d3379b4]" started-at="2025-04-02T18:45:38 IST" name="testForCollectionAcess" finished-at="2025-04-02T18:45:40 IST" duration-ms="2507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForCollectionAcess -->
+        <test-method signature="testForCollectionAllFilterAcess()[pri:0, instance:RestLibrary.RestAssuredDemoProject.TestJsonPathJResponse@2d3379b4]" started-at="2025-04-02T18:45:40 IST" name="testForCollectionAllFilterAcess" finished-at="2025-04-02T18:45:41 IST" duration-ms="767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForCollectionAllFilterAcess -->
+        <test-method signature="testUsingJsonNested()[pri:0, instance:RestLibrary.RestAssuredDemoProject.TestJsonPathJResponse@2d3379b4]" started-at="2025-04-02T18:45:41 IST" name="testUsingJsonNested" finished-at="2025-04-02T18:45:42 IST" duration-ms="826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsingJsonNested -->
+        <test-method signature="testUsingJsonPath()[pri:0, instance:RestLibrary.RestAssuredDemoProject.TestJsonPathJResponse@2d3379b4]" started-at="2025-04-02T18:45:42 IST" name="testUsingJsonPath" finished-at="2025-04-02T18:45:43 IST" duration-ms="846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsingJsonPath -->
+        <test-method signature="testUsingRootJsonNested()[pri:0, instance:RestLibrary.RestAssuredDemoProject.TestJsonPathJResponse@2d3379b4]" started-at="2025-04-02T18:45:43 IST" name="testUsingRootJsonNested" finished-at="2025-04-02T18:45:43 IST" duration-ms="859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsingRootJsonNested -->
+        <test-method signature="testUsingString()[pri:0, instance:RestLibrary.RestAssuredDemoProject.TestJsonPathJResponse@2d3379b4]" started-at="2025-04-02T18:45:43 IST" name="testUsingString" finished-at="2025-04-02T18:45:44 IST" duration-ms="899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsingString -->
+      </class> <!-- RestLibrary.RestAssuredDemoProject.TestJsonPathJResponse -->
+      <class name="RestLibrary.RestAssuredDemoProject.TestGetMethod">
+        <test-method signature="checkResult()[pri:0, instance:RestLibrary.RestAssuredDemoProject.TestGetMethod@618b19ad]" started-at="2025-04-02T18:45:34 IST" name="checkResult" finished-at="2025-04-02T18:45:36 IST" duration-ms="1722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResult -->
+      </class> <!-- RestLibrary.RestAssuredDemoProject.TestGetMethod -->
+      <class name="RestLibrary.RestAssuredDemoProject.HamcrestFirstClass">
+        <test-method signature="TestBetweek()[pri:0, instance:RestLibrary.RestAssuredDemoProject.HamcrestFirstClass@30c15d8b]" started-at="2025-04-02T18:45:44 IST" name="TestBetweek" finished-at="2025-04-02T18:45:44 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBetweek -->
+        <test-method signature="TestCloseTo()[pri:0, instance:RestLibrary.RestAssuredDemoProject.HamcrestFirstClass@30c15d8b]" started-at="2025-04-02T18:45:44 IST" name="TestCloseTo" finished-at="2025-04-02T18:45:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCloseTo -->
+        <test-method signature="TestEither()[pri:0, instance:RestLibrary.RestAssuredDemoProject.HamcrestFirstClass@30c15d8b]" started-at="2025-04-02T18:45:44 IST" name="TestEither" finished-at="2025-04-02T18:45:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestEither -->
+        <test-method signature="TestEqual()[pri:0, instance:RestLibrary.RestAssuredDemoProject.HamcrestFirstClass@30c15d8b]" started-at="2025-04-02T18:45:44 IST" name="TestEqual" finished-at="2025-04-02T18:45:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestEqual -->
+        <test-method signature="TestGreaterThan()[pri:0, instance:RestLibrary.RestAssuredDemoProject.HamcrestFirstClass@30c15d8b]" started-at="2025-04-02T18:45:44 IST" name="TestGreaterThan" finished-at="2025-04-02T18:45:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGreaterThan -->
+        <test-method signature="TestGreaterThanEqual()[pri:0, instance:RestLibrary.RestAssuredDemoProject.HamcrestFirstClass@30c15d8b]" started-at="2025-04-02T18:45:44 IST" name="TestGreaterThanEqual" finished-at="2025-04-02T18:45:44 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGreaterThanEqual -->
+        <test-method signature="TestLessThan()[pri:0, instance:RestLibrary.RestAssuredDemoProject.HamcrestFirstClass@30c15d8b]" started-at="2025-04-02T18:45:44 IST" name="TestLessThan" finished-at="2025-04-02T18:45:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLessThan -->
+        <test-method signature="TestLessThanEqual()[pri:0, instance:RestLibrary.RestAssuredDemoProject.HamcrestFirstClass@30c15d8b]" started-at="2025-04-02T18:45:44 IST" name="TestLessThanEqual" finished-at="2025-04-02T18:45:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLessThanEqual -->
+        <test-method signature="TestStringFunctions()[pri:0, instance:RestLibrary.RestAssuredDemoProject.HamcrestFirstClass@30c15d8b]" started-at="2025-04-02T18:45:44 IST" name="TestStringFunctions" finished-at="2025-04-02T18:45:44 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStringFunctions -->
+      </class> <!-- RestLibrary.RestAssuredDemoProject.HamcrestFirstClass -->
+      <class name="RestLibrary.RestAssuredDemoProject.CRUD_Basic">
+        <test-method signature="deleteData()[pri:0, instance:RestLibrary.RestAssuredDemoProject.CRUD_Basic@5e0e82ae]" started-at="2025-04-02T18:45:44 IST" name="deleteData" finished-at="2025-04-02T18:45:45 IST" duration-ms="774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteData -->
+        <test-method signature="getData()[pri:0, instance:RestLibrary.RestAssuredDemoProject.CRUD_Basic@5e0e82ae]" started-at="2025-04-02T18:45:45 IST" name="getData" finished-at="2025-04-02T18:45:46 IST" duration-ms="640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method signature="patchData()[pri:0, instance:RestLibrary.RestAssuredDemoProject.CRUD_Basic@5e0e82ae]" started-at="2025-04-02T18:45:46 IST" name="patchData" finished-at="2025-04-02T18:45:46 IST" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patchData -->
+        <test-method signature="postData()[pri:0, instance:RestLibrary.RestAssuredDemoProject.CRUD_Basic@5e0e82ae]" started-at="2025-04-02T18:45:46 IST" name="postData" finished-at="2025-04-02T18:45:47 IST" duration-ms="817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postData -->
+        <test-method signature="putData()[pri:0, instance:RestLibrary.RestAssuredDemoProject.CRUD_Basic@5e0e82ae]" started-at="2025-04-02T18:45:47 IST" name="putData" finished-at="2025-04-02T18:45:48 IST" duration-ms="614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putData -->
+      </class> <!-- RestLibrary.RestAssuredDemoProject.CRUD_Basic -->
+      <class name="RestLibrary.RestAssuredDemoProject.TestRestPeekPrintClass">
+        <test-method signature="getTest()[pri:0, instance:RestLibrary.RestAssuredDemoProject.TestRestPeekPrintClass@74235045]" started-at="2025-04-02T18:45:20 IST" name="getTest" finished-at="2025-04-02T18:45:20 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+        <test-method signature="peekTest()[pri:0, instance:RestLibrary.RestAssuredDemoProject.TestRestPeekPrintClass@74235045]" started-at="2025-04-02T18:45:20 IST" name="peekTest" finished-at="2025-04-02T18:45:24 IST" duration-ms="4145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- peekTest -->
+        <test-method signature="prettyPeekTest()[pri:0, instance:RestLibrary.RestAssuredDemoProject.TestRestPeekPrintClass@74235045]" started-at="2025-04-02T18:45:24 IST" name="prettyPeekTest" finished-at="2025-04-02T18:45:27 IST" duration-ms="2820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prettyPeekTest -->
+        <test-method signature="prettyPrintTest()[pri:0, instance:RestLibrary.RestAssuredDemoProject.TestRestPeekPrintClass@74235045]" started-at="2025-04-02T18:45:27 IST" name="prettyPrintTest" finished-at="2025-04-02T18:45:31 IST" duration-ms="4591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prettyPrintTest -->
+        <test-method signature="printTest()[pri:0, instance:RestLibrary.RestAssuredDemoProject.TestRestPeekPrintClass@74235045]" started-at="2025-04-02T18:45:31 IST" name="printTest" finished-at="2025-04-02T18:45:34 IST" duration-ms="2603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printTest -->
+      </class> <!-- RestLibrary.RestAssuredDemoProject.TestRestPeekPrintClass -->
+      <class name="RestLibrary.RestAssuredDemoProject.HamrestCollectArray">
+        <test-method signature="testIfArrayFunction()[pri:0, instance:RestLibrary.RestAssuredDemoProject.HamrestCollectArray@6771beb3]" started-at="2025-04-02T18:45:48 IST" name="testIfArrayFunction" finished-at="2025-04-02T18:45:48 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfArrayFunction -->
+        <test-method signature="testIfListFunction()[pri:0, instance:RestLibrary.RestAssuredDemoProject.HamrestCollectArray@6771beb3]" started-at="2025-04-02T18:45:48 IST" name="testIfListFunction" finished-at="2025-04-02T18:45:48 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfListFunction -->
+        <test-method signature="testIfMapFunction()[pri:0, instance:RestLibrary.RestAssuredDemoProject.HamrestCollectArray@6771beb3]" started-at="2025-04-02T18:45:48 IST" name="testIfMapFunction" finished-at="2025-04-02T18:45:48 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIfMapFunction -->
+      </class> <!-- RestLibrary.RestAssuredDemoProject.HamrestCollectArray -->
+      <class name="RestLibrary.RestAssuredDemoProject.PostWithHeadOptionMethod">
+        <test-method signature="testHeadMethod()[pri:0, instance:RestLibrary.RestAssuredDemoProject.PostWithHeadOptionMethod@3590fc5b]" started-at="2025-04-02T18:44:59 IST" name="testHeadMethod" finished-at="2025-04-02T18:45:07 IST" duration-ms="8083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHeadMethod -->
+        <test-method signature="testOptionsMethod()[pri:0, instance:RestLibrary.RestAssuredDemoProject.PostWithHeadOptionMethod@3590fc5b]" started-at="2025-04-02T18:45:07 IST" name="testOptionsMethod" finished-at="2025-04-02T18:45:12 IST" duration-ms="5392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOptionsMethod -->
+        <test-method signature="testPostUsers()[pri:0, instance:RestLibrary.RestAssuredDemoProject.PostWithHeadOptionMethod@3590fc5b]" started-at="2025-04-02T18:45:12 IST" name="testPostUsers" finished-at="2025-04-02T18:45:15 IST" duration-ms="3018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUsers -->
+        <test-method signature="testPostUsersUsingJSONObject()[pri:0, instance:RestLibrary.RestAssuredDemoProject.PostWithHeadOptionMethod@3590fc5b]" started-at="2025-04-02T18:45:15 IST" name="testPostUsersUsingJSONObject" finished-at="2025-04-02T18:45:16 IST" duration-ms="636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUsersUsingJSONObject -->
+        <test-method signature="testPostUsersUsingOnjectMapper()[pri:0, instance:RestLibrary.RestAssuredDemoProject.PostWithHeadOptionMethod@3590fc5b]" started-at="2025-04-02T18:45:16 IST" name="testPostUsersUsingOnjectMapper" finished-at="2025-04-02T18:45:17 IST" duration-ms="1330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUsersUsingOnjectMapper -->
+      </class> <!-- RestLibrary.RestAssuredDemoProject.PostWithHeadOptionMethod -->
+      <class name="RestLibrary.RestAssuredDemoProject.TestPathAndQueryParam">
+        <test-method signature="TestPathCarts()[pri:0, instance:RestLibrary.RestAssuredDemoProject.TestPathAndQueryParam@765d7657]" started-at="2025-04-02T18:45:17 IST" name="TestPathCarts" finished-at="2025-04-02T18:45:18 IST" duration-ms="805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPathCarts -->
+        <test-method signature="TestProduts()[pri:0, instance:RestLibrary.RestAssuredDemoProject.TestPathAndQueryParam@765d7657]" started-at="2025-04-02T18:45:18 IST" name="TestProduts" finished-at="2025-04-02T18:45:19 IST" duration-ms="650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestProduts -->
+        <test-method signature="TestQueryCarts()[pri:0, instance:RestLibrary.RestAssuredDemoProject.TestPathAndQueryParam@765d7657]" started-at="2025-04-02T18:45:19 IST" name="TestQueryCarts" finished-at="2025-04-02T18:45:20 IST" duration-ms="738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestQueryCarts -->
+      </class> <!-- RestLibrary.RestAssuredDemoProject.TestPathAndQueryParam -->
+      <class name="RestLibrary.RestAssuredDemoProject.HamrestHeaders">
+        <test-method signature="checkDateHeaders()[pri:0, instance:RestLibrary.RestAssuredDemoProject.HamrestHeaders@51399530]" started-at="2025-04-02T18:45:48 IST" name="checkDateHeaders" finished-at="2025-04-02T18:45:48 IST" duration-ms="623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDateHeaders -->
+        <test-method signature="checkHeaders()[pri:0, instance:RestLibrary.RestAssuredDemoProject.HamrestHeaders@51399530]" started-at="2025-04-02T18:45:48 IST" name="checkHeaders" finished-at="2025-04-02T18:45:49 IST" duration-ms="636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHeaders -->
+        <test-method signature="checkJsonHeader()[pri:0, instance:RestLibrary.RestAssuredDemoProject.HamrestHeaders@51399530]" started-at="2025-04-02T18:45:49 IST" name="checkJsonHeader" finished-at="2025-04-02T18:45:50 IST" duration-ms="787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkJsonHeader -->
+        <test-method signature="checkJsonsHeader()[pri:0, instance:RestLibrary.RestAssuredDemoProject.HamrestHeaders@51399530]" started-at="2025-04-02T18:45:50 IST" name="checkJsonsHeader" finished-at="2025-04-02T18:45:50 IST" duration-ms="595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkJsonsHeader -->
+      </class> <!-- RestLibrary.RestAssuredDemoProject.HamrestHeaders -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
