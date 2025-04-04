@@ -52,4 +52,13 @@ public class TestRestPeekPrintClass {
 		response.prettyPrint();
 		Assert.assertTrue(response.prettyPrint() instanceof String);
 	}
+	
+	@Test
+	public void prettyPrintTestTwo()
+	{
+		Response response = RestAssured.get("https://httpbin.org/get");
+		System.out.println("-----------PrettyPrintTest---------------");
+		response.prettyPrint();
+		Assert.assertTrue(response.prettyPrint() instanceof String);
+	}
 }
